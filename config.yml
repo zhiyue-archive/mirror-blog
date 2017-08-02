@@ -1,0 +1,22 @@
+# is a organization repository
+organization: false
+
+# site title
+title: Just Do IT
+
+# user name or organization name
+user: zhiyue
+
+# issue repository
+repository: mirror-blog
+
+# multi-author
+authors:
+
+# token
+# token should be separated by '#'
+# example: 5#c31bffc137f44faf7efc4a84da827g7ca2cfeaa
+token: f53a8546e7c92554bc539739e8031981b67e1100
+
+# posts per page
+perpage: 20
